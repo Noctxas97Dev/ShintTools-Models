@@ -13,5 +13,5 @@ Hosting público de los modelos GGUF que usa **ShintTools** (plataforma de anál
 El backend de ShintTools maneja la descarga internamente con verificación SHA-256. El usuario final no interactúa con este repo; el patrón de URL es:
 
 ```
-https://github.com/Genesishg1509/ShintTools-Models/releases/download/<tag>/<filename>
+https://github.com/Noctxas97Dev/ShintTools-Models/releases/download/<tag>/<filename>
 ```
