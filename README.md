@@ -6,7 +6,7 @@ Hosting público de los modelos GGUF que usa **ShintTools** (plataforma de anál
 
 ## Releases
 
-- **`v1.0-models`** — DeepSeek Coder 1.3B Instruct Q4_K_M (833 MiB)
+- **`v1.0-models`** — Qwen2.5-Coder-1.5B-Instruct-Q4_K_M
 
 ## Cómo se descarga
 
