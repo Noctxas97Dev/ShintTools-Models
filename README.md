@@ -1,16 +1,16 @@
 # ShintTools-Models
 
-Hosting público de los modelos GGUF que usa **ShintTools** (plataforma de análisis estático para Unreal Engine 5). El código del producto vive en un repositorio privado separado; aquí solo se publican los `.gguf` como Releases.
+Public hosting of the GGUF models used by **ShintTools** (a static analysis platform for Unreal Engine 5). The product code is hosted in a separate private repository; only the `.gguf` files are published here as Releases.
 
-> README provisional — se ampliará más adelante.
+> Tentative README — to be expanded later.
 
 ## Releases
 
 - **`v1.0-models`** — Qwen2.5-Coder-1.5B-Instruct-Q4_K_M
 
-## Cómo se descarga
+## How to Download
 
-El backend de ShintTools maneja la descarga internamente con verificación SHA-256. El usuario final no interactúa con este repo; el patrón de URL es:
+The ShintTools backend handles the download internally with SHA-256 verification. The end user does not interact with this repository; the URL pattern is:
 
 ```
 https://github.com/Noctxas97Dev/ShintTools-Models/releases/download/<tag>/<filename>
